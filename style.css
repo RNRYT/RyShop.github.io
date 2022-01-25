@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+#header {
+  background: #29bb89;
+}
+
+#header h2 {
+  margin-top: 9%;
+  margin-bottom: 7%;
+}
+
+/* jualan */
+
+#jualan h2 {
+  margin-top: 5%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+#jualan .gambar img {
+  width: 250px;
+  margin-left: 4%;
+  margin-top: 3%;
+}
+
+#jualan .gambar h5 {
+  margin-top: 1%;
+  font-size: 25px;
+}
