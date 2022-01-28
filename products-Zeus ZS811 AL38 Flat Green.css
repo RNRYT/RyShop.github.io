@@ -3,6 +3,25 @@
   padding: 0;
   text-decoration: none;
 }
+
+/* navbar */
+
+#navbar {
+  background: #000;
+}
+
+#navbar ul li {
+  list-style: none;
+}
+
+#navbar ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 25px;
+  margin-top: 2%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
 /* header */
 
 #header {

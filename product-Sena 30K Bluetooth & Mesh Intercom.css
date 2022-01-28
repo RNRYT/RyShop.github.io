@@ -55,7 +55,7 @@
   padding: 5px 10px;
 }
 
-#product .fullface {
+#product .intercom {
   text-decoration: none;
   color: #fff;
   font-size: 15px;
@@ -72,14 +72,14 @@
   border: 4px solid #f47340;
   background: #f47340;
   border-radius: 10px;
-  padding: 5px 200px;
+  padding: 5px 150px;
   box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.8);
 }
 
 #product .beli:hover {
   background: #222;
   border: 4px solid #222;
-  padding: 5px 230px;
+  padding: 5px 170px;
 }
 
 #product h4 {
@@ -118,7 +118,8 @@
 #image img {
   width: 250px;
   margin-left: 3%;
-  margin-top: 5%;
+  margin-top: 18%;
   border: 10px solid #222;
   border-radius: 10px;
+  margin-bottom: 10%;
 }
