@@ -32,6 +32,21 @@
 
 /* jualan */
 
+#jualan .sign-in a {
+  text-decoration: none;
+  color: #fff;
+  background: rgb(85, 131, 82);
+  border: 10px solid rgb(85, 131, 82);
+  border-radius: 15px;
+  padding: 5px 20px;
+}
+
+#jualan .sign-in a:hover {
+  padding: 5px 25px;
+  border: 10px solid rgb(30, 87, 26);
+  background-color: rgb(30, 87, 26);
+}
+
 #jualan h2 {
   margin-top: 5%;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;

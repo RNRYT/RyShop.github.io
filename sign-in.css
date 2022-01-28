@@ -1,0 +1,29 @@
+/* navbar */
+
+#navbar {
+  background: #000;
+}
+
+#navbar ul li {
+  list-style: none;
+}
+
+#navbar ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 25px;
+  margin-top: 2%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+/* sign-in */
+
+#sign-in h2 {
+  margin-top: 10%;
+  font-family: monospace;
+  font-size: 40px;
+}
+
+#sign-in p {
+  margin-left: 10%;
+}
